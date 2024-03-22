@@ -31,7 +31,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className=" px-4 py-2 bg-gradient-to-l from-purple-500 to-blue-400 text-white font-bold rounded-lg">Star Applying</a>
+    <a className=" px-4 py-2 bg-gradient-to-l from-purple-500 to-blue-400 text-white font-bold cursor-pointer rounded-lg">Star Applying</a>
   </div>
 </div>
     </div>
